@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend Mentor - Order summary card
 
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
@@ -89,3 +90,6 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+=======
+# Challenge4
+>>>>>>> 0367cc8fe7a358aa7da27a8accaf5a0484be3750
